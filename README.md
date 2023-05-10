@@ -2,7 +2,10 @@
 Here I have created a Notebook to Understand the Basic of python 
 - String
 - Numbers
-- Data structure
+- Datatype and Datastructure 
+- Contitional
+  - If, Elid, Else
+  - Loops - For Loops, While Loops
 
 
 
